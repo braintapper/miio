@@ -1,5 +1,5 @@
 
-# (Only) Added QingPing Air Monitor Lite with Miot API
+# MIIO with QingPing Air Monitor Lite support
 
 This fork of `@rifat/miio` adds support for the QingPing Air Monitor Lite (`cgllc.airm.cgdn1`).
 
