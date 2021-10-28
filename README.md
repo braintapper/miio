@@ -46,7 +46,6 @@ miio.device({ address: '{ip}', token: '{device token}' })
   .catch(function (err) {
     console.log("ERROR!");
     console.log(err);
-    
   })
 ```
 
