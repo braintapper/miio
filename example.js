@@ -1,11 +1,14 @@
-/* eslint-disable */
-
 const miio = require('./lib');
 
-// Create a new device over the given address
-miio.device({
-	address: 'ipHere',
-}).then(device => {
-	console.log('Connected to device');
-	console.log(device);
-}).catch(err => console.log('Error occurred:', err));
+miio.device({ address: '{ip}', token: '{device token}' })
+  .then( async function(device) {
+    console.log('Connected to', device);
+    output = await device.state();
+    console.log(output);
+    await device.destroy(); // disconnect
+  })
+  .catch(function (err) {
+    console.log("ERROR!");
+    console.log(err);
+    
+  })

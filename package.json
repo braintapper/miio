@@ -1,9 +1,9 @@
 {
-  "name": "@rifat/miio",
+  "name": "@braintapper/miio",
   "version": "1.5.0",
   "license": "MIT",
-  "description": "Control Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more",
-  "repository": "torifat/miio",
+  "description": "Communicate with Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more",
+  "repository": "braintapper/miio",
   "main": "lib/index.js",
   "keywords": [
     "xiaomi",
@@ -11,7 +11,8 @@
     "miio",
     "aqara",
     "yeelight",
-    "mijia"
+    "mijia",
+    "qingping"
   ],
   "bin": {
     "miio": "cli/index.js"
