@@ -80,8 +80,11 @@ repository.
 # Attributions
 
 Fork of: [`@rifat/miio`](https://www.npmjs.com/package/@rifat/miio) [Github](https://github.com/torifat/miio)
+
 ...which is a fork of github9984's [`miio`](https://github.com/github9984/miio)
+
 ...which is a fork of kingkong123's [`miio`](https://github.com/kingkong123/miio)
+
 ...which is a fork of aholstenson's [`miio`](https://github.com/aholstenson/miio)
 
 QingPing details from rytilahti's [`python-miio`][(https://github.com/rytilahti/python-miio](https://github.com/rytilahti/python-miio/blob/324422436d7075a9fba0d3686cc5c63009db82d7/miio/airqualitymonitor_miot.py))
