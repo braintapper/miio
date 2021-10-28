@@ -1,6 +1,6 @@
 {
   "name": "@braintapper/miio",
-  "version": "1.5.0",
+  "version": "1.0.0",
   "license": "MIT",
   "description": "Communicate with Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more",
   "repository": "braintapper/miio",
