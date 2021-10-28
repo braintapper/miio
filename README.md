@@ -73,7 +73,7 @@ Connected to MiioDevice {
 
 # Further Information
 
-For further documentation, go to aholstenson [`miio`]([Github](https://github.com/aholstenson/miio)
+For further documentation, go to aholstenson [`miio`](https://github.com/aholstenson/miio)
 repository.
 
 # Attributions
