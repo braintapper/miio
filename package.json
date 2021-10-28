@@ -1,5 +1,5 @@
 {
-  "name": "@braintapper/miio",
+  "name": "miio_qingping",
   "version": "1.0.0",
   "license": "MIT",
   "description": "Communicate with Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more",

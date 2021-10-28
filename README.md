@@ -8,13 +8,13 @@ This fork of `@rifat/miio` adds support for the QingPing Air Monitor Lite (`cgll
 To install into your project:
 
 ```
-npm install @braintapper/miio
+npm install miio_qingping
 ```
 
 To install globally for access to the command line tool:
 
 ```
-npm install -g @braintapper/miio
+npm install -g miio_qingping
 ```
 
 
