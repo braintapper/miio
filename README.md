@@ -33,7 +33,7 @@ To get the token, you need to set the device up with the Mi Home application (an
 Once you've set it up with the Mi Home application, you need use [Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) to get your tokens. You will need to enter your Mi account username and password to get the token.
 
 
-### test.js
+### example.js
 ``` 
 const miio = require('@braintapper/miio');
 miio.device({ address: '{ip}', token: '{device token}' })
