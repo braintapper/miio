@@ -35,7 +35,7 @@ Once you've set it up with the Mi Home application, you need use [Xiaomi-cloud-t
 
 ### example.js
 ``` 
-const miio = require('@braintapper/miio');
+const miio = require('miio_qingping');
 miio.device({ address: '{ip}', token: '{device token}' })
   .then( async function(device) {
     console.log('Connected to', device);
